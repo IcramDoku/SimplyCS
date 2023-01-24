@@ -1,4 +1,4 @@
-# startup_namer
+# Simply CS
 
 A new Flutter project.
 
