@@ -1,11 +1,5 @@
 # Simply CS
 
-A new Flutter project to build my first app.
+This repository contains the source code for my first Flutter-based app, a simple quiz application for computer science. You can download it from Google Play. The app offers quizzes on basic, difficult, or mixed computer science topics, I programmed in Dart.
 
-## Getting Started
-
-In this I used the tools below to build an educational application.
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
+Additionally, it includes my privacy policy, in compliance with Google Play's deployment guidelines.
